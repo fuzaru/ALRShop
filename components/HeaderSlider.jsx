@@ -7,7 +7,7 @@ const HeaderSlider = () => {
     {
       id: 1,
       title: "CpE Organizational Shirt",
-      offer: "Offer",
+      offer: "PHP 500 only",
       buttonText1: "Buy now",
       buttonText2: "Find more",
       imgSrc: assets.cpe_shirt,
@@ -15,7 +15,7 @@ const HeaderSlider = () => {
     {
       id: 2,
       title: "CoE Organization Shirt",
-      offer: "OFFER",
+      offer: "PHP 549 only",
       buttonText1: "Shop Now",
       buttonText2: "Explore Deals",
       imgSrc: assets.coe_orgshirt,
@@ -23,7 +23,7 @@ const HeaderSlider = () => {
     {
       id: 3,
       title: "CoE Jacket",
-      offer: "OFFER",
+      offer: "PHP 1,049 only",
       buttonText1: "Order Now",
       buttonText2: "Learn More",
       imgSrc: assets.CoE_jacket1,
